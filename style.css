@@ -193,6 +193,7 @@ a{
 
 .section4{
     background: #1F1C1C;
+    padding-bottom: 20vmin;
 }
 
 .pro{
@@ -252,4 +253,92 @@ a{
 
 .flip:hover{
     cursor: pointer !important;
+}
+
+.fit{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: open sauce one;
+}
+
+.end{
+    text-align: center;
+    margin-top: 6vmin;
+}
+
+
+/* Section 5 */
+
+.section5{
+    background: #555151;
+}
+
+
+.root{
+    margin-left: 13vmin;
+    margin-top: 7vmin;
+}
+
+.sign{
+    color: white;
+    font-size: 50px;
+    font-family: Abeezee;
+    padding-bottom: 14px;
+}
+
+.toll{
+    font-size: 18px;
+    font-family: open sauce one;
+    color: #ffffff;
+}
+
+.input-group{
+    margin-left: -18px;
+}
+
+.form-control{
+    height: 50px;
+    border-radius: 10px !important;
+    width: 3%;
+    height: 50px !important;
+    border: none !important;
+    font-family: Abeezee;
+}
+
+.btn1{
+    height: 50px;
+    width: 25% !important;
+    margin-left: 20px;
+    border-radius: 10px;
+    background: #FF5353 !important;
+    box-shadow: none !important;
+    color: white;
+    border: none;
+    font-family: Abeezee;
+}
+
+.btn1:hover{
+    cursor: pointer;
+    background: #FF5353;
+}
+
+.div{
+    margin-top: 13px;
+}
+
+.text{
+    margin-left: 13vmin;
+    color: white;
+    font-family: Abeezee;
+}
+
+.woo{
+    margin-left: 5vmin;
+    
+}
+
+.woo img{
+    width: 135%;
+    height: 31.5vmin;
 }
